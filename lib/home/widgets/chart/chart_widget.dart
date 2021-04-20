@@ -8,7 +8,6 @@ class ChartWidget extends StatelessWidget {
     return Container(
       height: 80,
       width: 80,
-      padding: const EdgeInsets.only(left: 10.0),
       child: Stack(
         children: [
           Container(
@@ -16,7 +15,7 @@ class ChartWidget extends StatelessWidget {
               width: 80,
               child: CircularProgressIndicator(
                 strokeWidth: 10,
-                value: 0.25,
+                value: 0.75,
                 backgroundColor: AppColors.chartSecondary,
                 valueColor:
                     AlwaysStoppedAnimation<Color>(AppColors.chartPrimary),
