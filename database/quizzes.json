@@ -14,7 +14,7 @@
                     },
                     {
                         "title": "Não Estou curtindo",
-                        "isRight": true
+                        "isRight": false
                     }
                 ]
             },
@@ -27,7 +27,7 @@
                     },
                     {
                         "title": "Não Estou curtindo2",
-                        "isRight": true
+                        "isRight": false
                     }
                 ]
             },
@@ -40,7 +40,7 @@
                     },
                     {
                         "title": "Não Estou curtindo3",
-                        "isRight": true
+                        "isRight": false
                     }
                 ]
             }
